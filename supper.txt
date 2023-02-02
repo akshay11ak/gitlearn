@@ -1,6 +1,10 @@
+#! /bin/bash
+
 my new project
 new line
 start
 shell scripting
 Hi
 go
+
+git pull git@github.com:akshay11ak/gitlearn.git
