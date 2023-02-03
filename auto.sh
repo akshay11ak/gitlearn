@@ -4,7 +4,7 @@ map["gitlearn"]="gitlearn"
 git init
 git add supper.txt
 git status
-git add auto.sh
+git add supper.txt
 git status
 
 git commit -m "committed"
