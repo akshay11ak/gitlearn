@@ -1,2 +1,3 @@
 
 git pull https://akshay11ak:d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thub@git_github.com/akshhay11ak/gitlearn.git
+git add
