@@ -12,3 +12,4 @@ ok
 cal
 date
 ok
+yes
